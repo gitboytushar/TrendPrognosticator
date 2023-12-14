@@ -42,6 +42,11 @@ body {
    display: flex;
    align-items: center;
 }
+.navbar a{
+   text-decoration: none;
+   border: none;
+   color: #FFFFFF;
+}
 
 .features-btn {
    margin-left: 1120px;
@@ -110,9 +115,11 @@ body {
 }
 
 .next button {
-   border: none;
-   background-color: black;
-   color: #FFFFFF;
+   border: 2px solid black;
+
+   background: none;
+   color: black;
+
    padding: 10px 38px;
    border-radius: 10px;
 
@@ -130,8 +137,9 @@ body {
 }
 
 .next button:hover {
-   background-color: #FFC700;
-   color: black;
+   background-color: black;
+   border: none;
+   color: #FFFFFF;
    font-weight: 600;
 
    transition: .15s ease-in;
