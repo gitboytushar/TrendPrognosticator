@@ -103,6 +103,7 @@ body {
 
 }
 
+/* clickable services */
 .service-container {
    width: fit-content;
    height: 18.75rem;
@@ -113,6 +114,34 @@ body {
    left: 50%;
    top: 60%;
    transform: translate(-50%, -50%);
+}
+
+#weather {
+   width: fit-content;
+   height: 18.75rem;
+
+   text-align: center;
+
+   position: fixed;
+   left: 30%;
+   top: 60%;
+   transform: translate(-50%, -50%);
+}
+
+#laptop {
+   width: fit-content;
+   height: 18.75rem;
+
+   text-align: center;
+
+   position: fixed;
+   left: 70%;
+   top: 60%;
+   transform: translate(-50%, -50%);
+}
+
+.service-container:hover {
+   color: #DBFF00;
 }
 
 .service-container p {
