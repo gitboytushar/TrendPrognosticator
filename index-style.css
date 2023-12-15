@@ -115,6 +115,7 @@ body {
 }
 
 .next button {
+
    border: 2px solid black;
 
    background: none;
@@ -127,10 +128,8 @@ body {
    font-weight: 500;
 
    position: fixed;
-
-   position: fixed;
    left: 29.8%;
-   top: 82.5%;
+   top: 85%;
    transform: translate(-50%, -50%);
 
    cursor: pointer;
