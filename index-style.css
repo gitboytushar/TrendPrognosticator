@@ -116,10 +116,10 @@ body {
 
 .next button {
 
-   border: 0.125rem solid black;
+   border: 0.125rem solid #FFFFFF;
 
    background: none;
-   color: black;
+   color: #FFFFFF;
 
    padding: 0.625rem 2.375rem;
    border-radius: 0.625rem;
