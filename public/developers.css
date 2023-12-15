@@ -50,9 +50,9 @@ body {
 }
 
 .features-btn {
-   margin-left: 1120px;
-   margin-top: 40px;
-   margin-right: 55px;
+   margin-left: 70rem;
+   margin-top: 2.5rem;
+   margin-right: 3.4375rem;
 
    font-size: larger;
 
@@ -69,7 +69,7 @@ body {
 }
 
 .about-btn {
-   margin-top: 40px;
+   margin-top: 2.5rem;
 
    font-size: larger;
 
@@ -88,11 +88,11 @@ body {
 .logo {
    font-family: Poppins;
    font-weight: 500;
-   line-height: 23.52px;
-   font-size: 24px;
+   line-height: 1.47rem;
+   font-size: 1.5rem;
 
-   margin-top: 40px;
-   margin-left: 80px;
+   margin-top: 2.5rem;
+   margin-left: 5rem;
 }
 
 /* stlying of features section */
@@ -115,20 +115,20 @@ body {
 }
 
 .title {
-   font-size: 46px;
+   font-size: 2.875rem;
    text-align: center;
    font-weight: 500;
-   margin-bottom: 70px;
+   margin-bottom: 4.375rem;
 }
 
 .dev {
-   font-size: 35px;
+   font-size: 2.1875rem;
    font-weight: 100;
    color: #FFFFFF;
 
-   margin-bottom: 20px;
+   margin-bottom: 1.25rem;
 }
 
 .role {
-   font-size: 20px;
+   font-size: 1.25rem;
 }

@@ -49,9 +49,9 @@ body {
 }
 
 .features-btn {
-   margin-left: 1120px;
-   margin-top: 40px;
-   margin-right: 55px;
+   margin-left: 70rem;
+   margin-top: 2.5rem;
+   margin-right: 3.4375rem;
 
    font-size: larger;
 
@@ -68,7 +68,7 @@ body {
 }
 
 .about-btn {
-   margin-top: 40px;
+   margin-top: 2.5rem;
 
    font-size: larger;
 
@@ -87,11 +87,11 @@ body {
 .logo {
    font-family: Poppins;
    font-weight: 500;
-   line-height: 23.52px;
-   font-size: 24px;
+   line-height: 1.47rem;
+   font-size: 1.5rem;
 
-   margin-top: 40px;
-   margin-left: 80px;
+   margin-top: 2.5rem;
+   margin-left: 5rem;
 }
 
 /* mid page styling */
@@ -105,7 +105,7 @@ body {
 
 .service-container {
    width: fit-content;
-   height: 300px;
+   height: 18.75rem;
 
    text-align: center;
 
@@ -116,11 +116,11 @@ body {
 }
 
 .service-container p {
-   margin-top: 10px;
-   font-size: 26px;
+   margin-top: 0.625rem;
+   font-size: 1.625rem;
 }
 
 .service-container img:hover {
-   border: 1px solid white;
+   border: 0.0625rem solid white;
    border-radius: 50%;
 }
